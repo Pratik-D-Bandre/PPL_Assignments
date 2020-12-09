@@ -1,0 +1,30 @@
+import turtle
+pen = turtle.Turtle()
+pen.width(5)
+
+
+def square():
+    pen.forward(100)
+    pen.left(90)
+    pen.forward(100)
+    pen.left(90)
+    pen.forward(100)
+    pen.left(90)
+    pen.forward(100)
+
+pen.color("red")
+square()
+pen.color("green")
+pen.forward(100)
+pen.color("red")
+square()
+pen.color("green")
+pen.forward(100)
+pen.color("red")
+square()
+pen.color("green")
+pen.forward(100)
+pen.color("red")
+square()
+pen.color("green")
+pen.forward(100)
