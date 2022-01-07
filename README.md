@@ -1,1 +1,1 @@
-This Repository Contains All PPL Assignments.
+This Repository Contains all PPL assignments.
